@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Alex-Kravchuk/Drag-and-drop/static/js/main.65e0719e.chunk.js",
-    "main.js.map": "/Alex-Kravchuk/Drag-and-drop/static/js/main.65e0719e.chunk.js.map",
-    "runtime-main.js": "/Alex-Kravchuk/Drag-and-drop/static/js/runtime-main.3cf19834.js",
-    "runtime-main.js.map": "/Alex-Kravchuk/Drag-and-drop/static/js/runtime-main.3cf19834.js.map",
-    "static/css/2.dd0622d0.chunk.css": "/Alex-Kravchuk/Drag-and-drop/static/css/2.dd0622d0.chunk.css",
-    "static/js/2.165ecd49.chunk.js": "/Alex-Kravchuk/Drag-and-drop/static/js/2.165ecd49.chunk.js",
-    "static/js/2.165ecd49.chunk.js.map": "/Alex-Kravchuk/Drag-and-drop/static/js/2.165ecd49.chunk.js.map",
-    "index.html": "/Alex-Kravchuk/Drag-and-drop/index.html",
-    "static/css/2.dd0622d0.chunk.css.map": "/Alex-Kravchuk/Drag-and-drop/static/css/2.dd0622d0.chunk.css.map",
-    "static/js/2.165ecd49.chunk.js.LICENSE.txt": "/Alex-Kravchuk/Drag-and-drop/static/js/2.165ecd49.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Alex-Kravchuk/Drag-and-drop/static/media/roboto-mono-latin-700italic.bf4b4e73.woff"
+    "main.js": "/Drag-and-drop/static/js/main.65e0719e.chunk.js",
+    "main.js.map": "/Drag-and-drop/static/js/main.65e0719e.chunk.js.map",
+    "runtime-main.js": "/Drag-and-drop/static/js/runtime-main.9cb7d531.js",
+    "runtime-main.js.map": "/Drag-and-drop/static/js/runtime-main.9cb7d531.js.map",
+    "static/css/2.20e05994.chunk.css": "/Drag-and-drop/static/css/2.20e05994.chunk.css",
+    "static/js/2.a7e97a3a.chunk.js": "/Drag-and-drop/static/js/2.a7e97a3a.chunk.js",
+    "static/js/2.a7e97a3a.chunk.js.map": "/Drag-and-drop/static/js/2.a7e97a3a.chunk.js.map",
+    "index.html": "/Drag-and-drop/index.html",
+    "static/css/2.20e05994.chunk.css.map": "/Drag-and-drop/static/css/2.20e05994.chunk.css.map",
+    "static/js/2.a7e97a3a.chunk.js.LICENSE.txt": "/Drag-and-drop/static/js/2.a7e97a3a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Drag-and-drop/static/media/roboto-mono-latin-700italic.bf4b4e73.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cf19834.js",
-    "static/css/2.dd0622d0.chunk.css",
-    "static/js/2.165ecd49.chunk.js",
+    "static/js/runtime-main.9cb7d531.js",
+    "static/css/2.20e05994.chunk.css",
+    "static/js/2.a7e97a3a.chunk.js",
     "static/js/main.65e0719e.chunk.js"
   ]
 }
